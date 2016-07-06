@@ -1,0 +1,22 @@
+body {
+	background-color:lightblue;
+	width:80%;
+	font-family:"arial";
+}
+
+html {
+	width:80%;
+}
+
+header {
+	text-align:center;
+}
+
+.div_header {
+	display:inline-block;
+	text-align:center;
+}
+
+.font_bold {
+	font-weight:bold;
+}
